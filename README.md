@@ -10,7 +10,7 @@ This project contains a notebook along with a complete Data Science project and 
   <li>Sharing a compelling story by way of a Medium post</li>
 </ol>
 
-## File descriptions
+## File Descriptions
 There is one python notebook within this repository that showcases the end-to-end analysis as summarized for business users in a Medium post available [here](https://medium.com/@brandonrao123/what-brings-job-satisfaction-for-a-developer-hint-its-not-money-031c383452cb).
 
 ## Results
