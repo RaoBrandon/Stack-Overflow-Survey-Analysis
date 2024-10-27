@@ -11,10 +11,10 @@
 </ol>
 
 ## File descriptions
-<p>There is one python notebook within this repository that showcases the end-to-end analysis as summarized for business users in a Medium post available here.</p>
+<p>There is one python notebook within this repository that showcases the end-to-end analysis as summarized for business users in a Medium post available [here](https://medium.com/@brandonrao123/what-brings-job-satisfaction-for-a-developer-hint-its-not-money-031c383452cb).</p>
 
 ## Results
-<p>Complete results of this analysis are shared within the project notebook as well as the medium post linked here.</p>
+<p>Complete results of this analysis are shared within the project notebook as well as the medium post linked [here](https://medium.com/@brandonrao123/what-brings-job-satisfaction-for-a-developer-hint-its-not-money-031c383452cb).</p>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://survey.stackoverflow.co/).
