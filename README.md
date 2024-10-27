@@ -17,6 +17,6 @@
 <p>Complete results of this analysis are shared within the project notebook as well as the medium post linked here.</p>
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://survey.stackoverflow.co/).
+Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the link available [here](https://survey.stackoverflow.co/).
 
 Several references, especially towards the intialization, fit and evaluation of a model refer to best practices as documented in Udacity's Data Science Nanodegree program. 
